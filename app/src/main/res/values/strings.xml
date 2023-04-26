@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomDialogAndList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CustomDialog">Custom Dialog\n</string>
+    <string name="Name">Name\n</string>
+    <string name="save">Save\n</string>
+</resources>
